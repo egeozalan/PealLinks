@@ -22,10 +22,8 @@ I work as a freelancer in:
 
 And I also develop my own creative projects.  
 
-## 🔗 Live Demo
-👉 [Website Link](https://yourdomain.com) *(replace with your actual link)*
-
 ## 📬 Contact
-- LinkedIn: [linkedin.com/in/ege-özalan](https://www.linkedin.com/in/ege-%C3%B6zalan-21b10a207/)  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)  
-- Email: your@email.com  
+- LinkedIn: [linkedin.com/in/ege-ozalan](https://www.linkedin.com/in/ege-%C3%B6zalan-21b10a207/)  
+- GitHub: [github.com/egeozalan](https://github.com/egeozalan)  
+- Email: egeozalan1@gmail.com
+
