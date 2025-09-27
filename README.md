@@ -1,3 +1,9 @@
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)]()
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)]()
+<a href="https://github.com/egeozalan/pealqrgenerator/blob/main/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
+
+:star: Star me on GitHub — it helps!
+
 # 🌐 Personal Link Hub
 
 This is my personal website where I gather all my links, social media profiles, and projects in one place.  
@@ -26,4 +32,5 @@ And I also develop my own creative projects.
 - LinkedIn: [linkedin.com/in/ege-ozalan](https://www.linkedin.com/in/ege-%C3%B6zalan-21b10a207/)  
 - GitHub: [github.com/egeozalan](https://github.com/egeozalan)  
 - Email: egeozalan1@gmail.com
+
 
